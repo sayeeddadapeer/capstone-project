@@ -35,6 +35,6 @@ Under The Hotel Management System (HMS) Each Group will have below moduels under
 * Worked on Spring Data JPA for SQL operations.
 * Tested code using JUnit.
 ## Contributors
-Azgar
-Jagadeesh
-Hemanth
+* Azgar
+* Jagadeesh
+* Hemanth
